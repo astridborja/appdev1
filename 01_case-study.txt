@@ -15,7 +15,7 @@ As a developer: If you were the one facing a family emergency, how would you han
 Answer: From a developer's attitude, if I were facing a own family emergency, clean and well timed verbal exchange with my manager might be vital. I might notify them as quickly as possible about the scenario and offer an honest assessment of my availability and capacity to make a contribution. If I should nevertheless work, I would prioritize responsibilities and delegate or defer less critical work, making sure that my colleagues may want to take over the greater pressing aspects.
 
 
-What might have been carried out better?: Reflect on how both the manager and the developer could have better anticipated potential risks and mitigated issues before they arose. What strategies might have helped avoid this situation or managed it more effectively?
+What might have been carried out better?: Reflect on how both the manager and the developer could have better anticipated potential risks and mitigated issues before they arose. What strategies might have helped avoid this situation or managed it more effectively?  g
 
 Answer: 
 
